@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1e37c36-5184-4b7d-90b4-e7ca48c145f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/advent-of-code-2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/christo/Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/christo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/christo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638655815959</updated>
       <workItem from="1638655819937" duration="5471000" />
-      <workItem from="1638695992381" duration="142000" />
+      <workItem from="1638695992381" duration="2477000" />
     </task>
     <servers />
   </component>
