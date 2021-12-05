@@ -11,8 +11,7 @@ import java.util.stream.Collectors;
 public class Part1 {
     public static void main(String[] args) throws FileNotFoundException {
         // write your code here
-        File file = new File("input.txt");
-        Scanner myReader = new Scanner(file);
+        Scanner myReader = Input.getInput();
         List<String> data = new ArrayList<>();
         while (myReader.hasNextLine()) {
             data.add(myReader.nextLine());
